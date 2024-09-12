@@ -141,7 +141,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Author
 
 - **Sara Elkomy** - Backend and Frontend Developer
-
----
-
-This **README.md** file covers all the necessary details about your project, including installation steps, usage instructions, API details, and more. Let me know if you'd like any changes or additions!
