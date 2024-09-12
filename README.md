@@ -1,2 +1,1 @@
-# DataViz-Explorer
-# DataViz-Explorer
+This is a README.md file inside alx-higher_level_programming/0x08-python-more_classes
